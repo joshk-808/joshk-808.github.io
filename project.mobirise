@@ -40,7 +40,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site 2025-11-12 09:21",
+    "name": "thiskilled.me",
     "versionFirst": "6.1.9",
     "siteFonts": [
       {
@@ -62,13 +62,23 @@
     "uniqCompNum": 7,
     "versionPublish": "6.1.9",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/skull.svg",
+    "mbrsiteDomain": "ghm14q3by4",
+    "usedWebp": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "robotsText": "User-agent: *\nDisallow: /\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "thiskilled.me",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
