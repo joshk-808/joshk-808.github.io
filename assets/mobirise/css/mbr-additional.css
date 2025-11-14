@@ -795,12 +795,15 @@ a {
 .cid-v2xbTi1oEI .row {
   flex-direction: row-reverse;
 }
+.cid-v2xbTi1oEI .mbr-description {
+  color: #000000;
+}
 .cid-v2xgcG33vp {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #000000;
+  background-color: #ffffff;
   overflow: hidden;
 }
 .cid-v2xgcG33vp .media-container-row .mbr-text {
-  color: #ffffff;
+  color: #878787;
 }
